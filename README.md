@@ -17,7 +17,8 @@ Blazor (.NET) — framework web da Microsoft para C#
 
 ## Screenshot
 
-(adicione uma imagem da sua aplicação aqui)
+![Screenshot](imagem_2026-04-29_192217785.png)
+
 
 ## Heurística aplicada
 
